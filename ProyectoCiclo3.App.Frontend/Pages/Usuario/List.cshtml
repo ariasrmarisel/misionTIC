@@ -12,6 +12,7 @@
       <th scope="col">Apellidos</th>
       <th scope="col">Direccion</th>
       <th scope="col">Telefono</th>
+      <th scope="col">Ciudad</th>
     </tr>
   </thead>
     @foreach (var usuario in Model.Usuario)
@@ -22,6 +23,7 @@
             <td>@usuario.apellidos</td>
             <td>@usuario.direccion</td>
             <td>@usuario.telefono</td>
+            <td>@usuario.ciudad</td>
             <td>
               <a class="btn btn-info" asp-page="./Details" asp-route-UsuarioId="@usuario.id"><i class="fas fa-adjust"></i>Ver</a>
               <a class="btn btn-info" href="">Editar</a>
