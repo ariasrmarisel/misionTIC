@@ -27,6 +27,7 @@ namespace ProyectoCiclo3.App.Frontend.Pages
     {
         Usuario=repositorioUsuario.GetAll();
     }
+    
     public IActionResult OnPost()
     {
         if(User.id>0)

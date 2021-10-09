@@ -1,17 +1,18 @@
 @page
+@model ProyectoCiclo3.App.Frontend.Pages.FormEncomiendaModel
 @{
 }
  
 <div class="text-center">
-<form action="">
+<form method="post">
   <label for="descripcion" class="form-label">Descripción:</label>
-  <input type="text" class="form-control" id="descripcion" name="descripcion" placeholder="Descripción">
+  <input type="text" class="form-control" id="descripcion" name="descripcion" placeholder="Descripción" asp-for="Encomienda.descripcion" required>
   <label for="peso" class="form-label">Peso:</label>
-  <input type="number" class="form-control" id="peso" name="peso" placeholder="Peso">
+  <input type="number" class="form-control" id="peso" name="peso" placeholder="Peso" asp-for="Encomienda.peso" required>
   <label for="tipo" class="form-label">Tipo:</label>
-  <input type="text" class="form-control" id="tipo" name="tipo" placeholder="Tipo">
+  <input type="text" class="form-control" id="tipo" name="tipo" placeholder="Tipo" asp-for="Encomienda.tipo" required>
   <label for="presentacion" class="form-label">Presentacion:</label>
-  <input type="text" class="form-control" id="presentacion" name="presentacion" placeholder="Presentación">
+  <input type="text" class="form-control" id="presentacion" name="presentacion" placeholder="Presentación" asp-for="Encomienda.presentacion" required>
   <hr>
   <button type="submit" class="btn btn-success">Enviar</button>
 </form>
