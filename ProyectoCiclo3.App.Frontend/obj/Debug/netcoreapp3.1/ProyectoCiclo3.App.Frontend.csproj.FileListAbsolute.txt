@@ -183,3 +183,8 @@ D:\Proyecto MISION TIC Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.FrontEnd\obj
 D:\Proyecto MISION TIC Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
 D:\Proyecto MISION TIC Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
 D:\Proyecto MISION TIC Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Proyecto MISION TIC Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\publish\web.config
+D:\Proyecto MISION TIC Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\publish\appsettings.Development.json
+D:\Proyecto MISION TIC Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\publish\appsettings.json
+D:\Proyecto MISION TIC Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\publish\ProyectoCiclo3.App.Frontend.deps.json
+D:\Proyecto MISION TIC Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\publish\ProyectoCiclo3.App.Frontend.runtimeconfig.json
